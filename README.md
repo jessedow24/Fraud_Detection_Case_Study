@@ -19,4 +19,4 @@ We take a stream of data from an API, conduct EDA, create a model to detect frau
 
 <img alt="Top 10 features" src="photos/9.png" width=450>
 
-<img alt="Feature Importance Graph" src="photos/10.png" width=450>
+<img alt="Feature Importance Graph" src="photos/11.png" width=450>
